@@ -1,0 +1,12 @@
+* {
+  overflow-x: hidden;
+  background-color: aquamarine;
+}
+
+img {
+  max-width: 1000px;
+}
+
+li {
+  font-size: 20px;
+}
